@@ -1,10 +1,10 @@
 {
-    "version": "12.10",
+    "version": "12.11",
     "description": "Comprehensive Windows dev-environment updater: Scoop, Winget, Chocolatey, npm, pipx, uv, Rust, VS Code extensions, WSL, Azure/Google Cloud CLIs and more, all in one script.",
     "homepage": "https://github.com/baurfm/update",
     "license": "MIT",
-    "url": "https://github.com/baurfm/update/releases/download/v12.10/update.ps1",
-    "hash": "627d3825945381b2230d39bc2e63897a6ac1563e5c59a99e8540e22e14572093",
+    "url": "https://github.com/baurfm/update/releases/download/v12.11/update.ps1",
+    "hash": "62f420eddd7635adba70af3517a3e268ddd8011b889da130317e52ddcd528f3b",
     "bin": "update.ps1",
     "persist": "logs",
     "checkver": {
