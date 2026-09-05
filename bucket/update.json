@@ -4,7 +4,7 @@
     "homepage": "https://github.com/baurfm/update",
     "license": "MIT",
     "url": "https://github.com/baurfm/update/releases/download/v12.10/update.ps1",
-    "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
+    "hash": "627d3825945381b2230d39bc2e63897a6ac1563e5c59a99e8540e22e14572093",
     "bin": "update.ps1",
     "persist": "logs",
     "checkver": {
